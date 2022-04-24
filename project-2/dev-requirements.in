@@ -1,0 +1,7 @@
+-c requirements.txt
+coverage
+pylint
+pylint-django
+black
+mypy
+pre-commit
