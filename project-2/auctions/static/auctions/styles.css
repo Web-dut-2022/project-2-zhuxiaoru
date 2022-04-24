@@ -1,0 +1,24 @@
+body {
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.list-group {
+    display: inline-block;
+}
+
+.img_cell {
+    width: 25%;
+}
+
+.l_img {
+    max-width: 500px;
+}
+
+.asteriskField {
+    display: none;
+}
